@@ -6,7 +6,7 @@ goal: create a hyperledger chaincode contract where users can rent items they ow
 
 useful links:
 
-https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78
+https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78git 
 
 
 Go binding
