@@ -1,7 +1,13 @@
 # SberbankHackathon
 
+goal: create a chaincode contract where users can rent items they own to other users
+
+
 
 useful links:
+
+Go binding
+https://geth.ethereum.org/docs/dapp/native-bindings
 
 Install Hyperledger
 https://medium.com/hackernoon/hyperledger-fabric-installation-guide-74065855eca9
