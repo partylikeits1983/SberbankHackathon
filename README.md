@@ -1,10 +1,13 @@
 # SberbankHackathon
 
-goal: create a chaincode contract where users can rent items they own to other users
+goal: create a hyperledger chaincode contract where users can rent items they own to other users
 
 
 
 useful links:
+
+https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78
+
 
 Go binding
 https://geth.ethereum.org/docs/dapp/native-bindings
