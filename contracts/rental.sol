@@ -78,11 +78,11 @@ contract blockchainBNB {
 
 
     // event handlers 
-    
+    /* events are not yet implemented in the Solidity Go bindings 
     event PropertyListed(address owner, uint ID);
     event PropertyRented(address owner, uint ID, address renter, uint checkin, uint checkout);
     event PriceUpdated(address owner, uint newPrice, uint ID);
-
+    */
 
 
     // used by listProperty and rentProperty
