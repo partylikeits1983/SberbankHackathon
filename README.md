@@ -2,7 +2,10 @@
 
 goal: create a hyperledger chaincode contract where users can rent items they own to other users
 
-completed: smart contract that allows users to rent their property to other users - see /contracts/rental.sol
+
+completed: created a smart contract that allows users to rent their property to other users - see /contracts/rental.sol
+
+completed: created Solidity to Go bindings for rental.sol
 
 
 ## using geth abigen tool:
