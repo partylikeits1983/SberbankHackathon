@@ -6,7 +6,7 @@ goal: create a hyperledger chaincode contract where users can rent items they ow
 ## using geth abigen tool:
 
 ```sh
-abigen --sol rental.sol --pkg main --out rental.go
+abigen --sol rental.sol --pkg main --out ../goBindings/rental.go
 ```
 
 
