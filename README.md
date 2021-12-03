@@ -33,8 +33,7 @@ the smart contracts are deployed."*
 
 2) https://arxiv.org/pdf/1801.10228.pdf
 
-*"Unfortunately, generic languages pose many problems for en-
-suring deterministic execution. Even if the application developer
+*"Unfortunately, generic languages pose many problems for ensuring deterministic execution. Even if the application developer
 does not introduce obviously non-deterministic operations, hidden
 implementation details can have the same devastating effect (e.g., a
 map iterator is not deterministic in Go)."*
@@ -44,6 +43,10 @@ map iterator is not deterministic in Go)."*
 ## Hyperledger Besu - EVM compatible permissioned blockchain
 
 https://besu.hyperledger.org/en/stable/
+
+
+
+
 
 
 
