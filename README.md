@@ -8,6 +8,11 @@ completed: created a smart contract that allows users to rent their property to 
 completed: created Solidity to Go bindings for rental.sol
 
 
+#### Rental Smart Contract live on Rinkeby:
+https://rinkeby.etherscan.io/address/0xa22eecf77ba8d3d47b24612d2d1f87b4c61e3050#writeContract
+
+
+
 ## using geth abigen tool:
 
 Create Solidity Go Bindings
@@ -49,7 +54,7 @@ https://besu.hyperledger.org/en/stable/
 
 
 
-
+--------
 ## @devs - useful links:
 
 #### Deploying solidity to hyperledger fabric - couldn't figure it out :(
@@ -59,13 +64,13 @@ https://medium.com/coinmonks/solidity-smart-contract-on-hyperledger-fabric-3d50f
 
 https://hyperledger-fabric.readthedocs.io/en/latest/deploy_chaincode.html#install-the-chaincode-package
 
---------  
-
-https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78git 
 
 
 Go binding
 https://geth.ethereum.org/docs/dapp/native-bindings
+
+https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78git 
+
 
 Install Hyperledger
 https://medium.com/hackernoon/hyperledger-fabric-installation-guide-74065855eca9

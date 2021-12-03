@@ -121,8 +121,6 @@ contract rentalContract {
 
         require (msg.value >= fee);
 
-
-
         // rental and security deposits struct is mapped to renter address not owner address 
 
         // id is of owner properties 
