@@ -47,10 +47,16 @@ https://besu.hyperledger.org/en/stable/
 
 
 
-
-
-
 ## @devs - useful links:
+
+#### Deploying solidity to hyperledger fabric - couldn't figure it out :(
+
+https://medium.com/coinmonks/solidity-smart-contract-on-hyperledger-fabric-3d50f25e577b
+
+
+https://hyperledger-fabric.readthedocs.io/en/latest/deploy_chaincode.html#install-the-chaincode-package
+
+--------  
 
 https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78git 
 
