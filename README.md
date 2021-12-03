@@ -2,16 +2,52 @@
 
 goal: create a hyperledger chaincode contract where users can rent items they own to other users
 
+completed: smart contract that allows users to rent their property to other users - see /contracts/rental.sol
+
 
 ## using geth abigen tool:
+
+Create Solidity Go Bindings
 
 ```sh
 abigen --sol rental.sol --pkg main --out ../goBindings/rental.go
 ```
 
 
+## Why Sberbank should look into using a permissioned blockchain that allows developers to use Solidity 
 
-useful links:
+#### Potential Risk Detection System of Hyperledger Fabric Smart Contract based on Static Analysis
+
+1) https://easychair.org/publications/preprint_open/7c6R
+
+
+*"Due  to  the  lack  of 
+mature development specifications for smart contracts 
+using  general-purpose  programming  language,  there  are 
+often  potential  risks  in  the  smart  contracts  related  to  the 
+characteristics  of  Hyperledger  Fabric.  It  will  bring  many 
+inconveniences  and  potential  safety  hazards  to  users  after 
+the smart contracts are deployed."*
+
+#### Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains
+
+2) https://arxiv.org/pdf/1801.10228.pdf
+
+*"Unfortunately, generic languages pose many problems for en-
+suring deterministic execution. Even if the application developer
+does not introduce obviously non-deterministic operations, hidden
+implementation details can have the same devastating effect (e.g., a
+map iterator is not deterministic in Go)."*
+
+
+
+## Hyperledger Besu - EVM compatible permissioned blockchain
+
+https://besu.hyperledger.org/en/stable/
+
+
+
+## @devs - useful links:
 
 https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78git 
 

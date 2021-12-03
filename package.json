@@ -1,0 +1,28 @@
+{
+  "name": "sberbankhackathon",
+  "version": "1.0.0",
+  "description": "goal: create a hyperledger chaincode contract where users can rent items they own to other users",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "besu": "besu --network=dev --miner-enabled --miner-coinbase=0xfe3b557e8fb62b89f4916b721be55ceb828dbd73 --rpc-http-cors-origins='all' --host-allowlist='*' --rpc-ws-enabled --rpc-http-enabled --data-path=/tmp/tmpDatdir",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/partylikeits1983/SberbankHackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "solc": "^0.8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/partylikeits1983/SberbankHackathon/issues"
+  },
+  "homepage": "https://github.com/partylikeits1983/SberbankHackathon#readme"
+}
