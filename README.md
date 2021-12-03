@@ -1,4 +1,4 @@
-# SberbankHackathon
+# Sberbank Hackathon
 
 goal: create a hyperledger chaincode contract where users can rent items they own to other users
 
