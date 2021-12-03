@@ -3,6 +3,13 @@
 goal: create a hyperledger chaincode contract where users can rent items they own to other users
 
 
+## using geth abigen tool:
+
+```sh
+abigen --sol rental.sol --pkg main --out rental.go
+```
+
+
 
 useful links:
 
