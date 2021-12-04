@@ -8,3 +8,7 @@ Address (B) 0x45Ff40D4C30f9482548cA2a24dAaF1220A7e5078 is renting property 1 fro
 
 Copy and paste Address (B) 0x45Ff40D4C30f9482548cA2a24dAaF1220A7e5078 in to the read function named rentals and specify id as 0
 
+
+<p align="center">
+   <img src="/doc/rental.jpg">
+</p>
