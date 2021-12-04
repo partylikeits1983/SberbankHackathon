@@ -10,5 +10,5 @@ Copy and paste Address (B) 0x45Ff40D4C30f9482548cA2a24dAaF1220A7e5078 in to the 
 
 
 <p align="center">
-   <img src="/doc/rentals.jpg">
+   <img src="/doc/rentals.png">
 </p>
