@@ -8,6 +8,11 @@ completed: created a smart contract that allows users to rent their property to 
 completed: created Solidity to Go bindings for rental.sol
 
 
+
+#### YouTube video Demo of smart contract: 
+https://youtu.be/e4iqZlX2rxc
+
+
 #### Rental Smart Contract live on Rinkeby:
 https://rinkeby.etherscan.io/address/0xa22eecf77ba8d3d47b24612d2d1f87b4c61e3050#writeContract
 
